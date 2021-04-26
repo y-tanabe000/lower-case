@@ -1,0 +1,28 @@
+{
+    "name": "lowercase",
+    "version": "1.0.0",
+    "node-red": {
+      "nodes": {
+        "lowercase": "lowercase.js"
+      }
+    },
+    "description": "test",
+    "main": "lowercase.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/y-tanabe000/lower-case.git"
+    },
+    "keywords": [
+      "test"
+    ],
+    "author": "y-tanabe000",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/y-tanabe000/lower-case/issues"
+    },
+    "homepage": "https://github.com/y-tanabe000/lower-case#readme"
+  }
+  
