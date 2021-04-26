@@ -1,5 +1,15 @@
 {
     "name" : "node-red-contrib-example-lower-case",
+    "version": "1.0.0",
+    "dependencies": {
+        "reqest": "0.0.1-security"
+    },
+    "private":"true",
+    "main": "lower-case.js",
+    "description": "test",
+    "keywords": [
+        "test0426"
+    ],
     "node-red" : {
         "nodes": {
             "lower-case": "lower-case.js"
